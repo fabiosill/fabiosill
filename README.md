@@ -12,16 +12,16 @@ Interested in technology and software development, I seek to improve my knowledg
 
 🗄️ SQL
 
-☕ Java</h4>
+☕ Java
 
 🌐 HTML
 
-🎨 CSS
+🎨 CSS</h4>
 
 ---
 
 <p>
-  <img height="180em" align= center src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/>
+  <img height="180em" align= center src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/><br><br>
   <img height="180em" align= center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark"/>
 </p>
 
