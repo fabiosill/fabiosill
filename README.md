@@ -16,13 +16,17 @@ Interested in technology and software development, I seek to improve my knowledg
 
 ---
 
-![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-![Snake animation](https://github.com/fabiosill/fabiosill/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiosill/fabiosill/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiosill/fabiosill/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiosill/fabiosill/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
