@@ -4,8 +4,10 @@ Interested in technology and software development, I seek to improve my knowledg
 
 🌐 System Analysis and Development in Progress on SENAI Armando de Arruda.
 
+---
 
 ## My Favorite Tools
+
 
 🗄️ SQL
 
@@ -19,6 +21,7 @@ Interested in technology and software development, I seek to improve my knowledg
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/>
   <img height="180em" align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark"/>
 </p>
+
 
 ---
 
