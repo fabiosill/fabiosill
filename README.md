@@ -1,19 +1,22 @@
-# Hello world, I'm Fábio Silva! 👋
+# Fábio Silva 
 
-Interested in technology and software development, I seek to improve my knowledge in the field by studying programming and creating practical projects, with a focus on continuous learning.
+Interested in technology and software development, I seek to improve my knowledge in the field programming and creating practical projects, with a focus on continuous learning.
 
-🌐 System Analysis and Development in Progress on SENAI Armando de Arruda.
+🌐 System Analysis and Development in progress on SENAI Armando de Arruda.
+<br><br>
 
----
 
-## My Favorite Tools
+## Currently Learning
 
+<h4>🐍 Python<br><br>
 
 🗄️ SQL
 
-🐍 Python
+☕ Java</h4>
 
-🌐 HTML / 🎨 CSS
+🌐 HTML
+
+🎨 CSS
 
 ---
 
