@@ -1,4 +1,4 @@
-<h1 align=center><b>Fábio Silva</b> </h1> 
+<h1 align="center">Fábio Silva</h1> 
 
 Interested in technology and software development, I seek to improve my knowledge in the field programming and creating practical projects, with a focus on continuous learning.
 
@@ -21,7 +21,7 @@ Interested in technology and software development, I seek to improve my knowledg
 ---
 
 <p align= center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark"/>
 </p>
 
