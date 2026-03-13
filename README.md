@@ -4,7 +4,6 @@ Interested in technology and software development, I seek to improve my knowledg
 
 🌐 System Analysis and Development in Progress on SENAI Armando de Arruda.
 
----
 
 ## My Favorite Tools
 
