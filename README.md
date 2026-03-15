@@ -6,7 +6,7 @@ Interested in technology and software development, I seek to improve my knowledg
 <br><br>
 
 
-## Currently Learning
+# Currently Learning
 
 <h4>🐍 Python<br><br>
 
