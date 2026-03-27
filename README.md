@@ -1,37 +1,44 @@
-<h1 align="center">Fábio Silva</h1> 
+# Fábio Silva
 
-Interested in technology and software development, I seek to improve my knowledge in the field programming and creating practical projects, with a focus on continuous learning.
+**`🌐 System Analysis and Development in progress on SENAI Armando de Arruda.`**
 
-🌐 System Analysis and Development in progress on SENAI Armando de Arruda.
+My name is Fábio, I am 25 years old. I am interested in technology and software development, and I seek to improve my programming skills by building practical projects, with a strong focus on continuous learning.
+
+---
+
+## Pratical Projects
+
+<b>1º User Register System: [[WEB001] project-register-system](https://github.com/fabiosill/user-register-system) </b><br>
+Developed a Java application to simulate a basic user registration and login system.
+
+<b>2º Website for Hairstylist: [[JAVA001] project-website-hairstylist](https://github.com/fabiosill/user-register-system) </b><br>
+Built a responsive website for a barbershop with an appointment scheduling interface, focusing on clean design and user experience.
 <br><br>
 
+---
 
 ## Currently Learning
 
-<h4>🐍 Python<br><br>
+<h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15px"/> &nbsp;Java&nbsp;&nbsp;| &nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15px"/> &nbsp;Python&nbsp;&nbsp;|  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15px"/> &nbsp;HTML&nbsp;&nbsp;|  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15px"/> &nbsp;CSS&nbsp;&nbsp;|  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15px"/> &nbsp;JavaScript&nbsp;&nbsp;| &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="15px"/>&nbsp; C++&nbsp;&nbsp;|  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15px"/> &nbsp;Git&nbsp;&nbsp;   |  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="15px"/> &nbsp;SQL
+</h3>
 
-🗄️ SQL
 
-☕ Java
-
-🌐 HTML
-
-🎨 CSS</h4>
-
----
-
-<p align= "center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fabiosill&show_icons=true&theme=github_dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=github_dark"/>
-</p>
+<br>
 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiosill/fabiosill/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiosill/fabiosill/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabiosill/fabiosill/output/pacman-contribution-graph.svg">
-</picture>
-
----
+<div align="center">
+  <img height="165em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabiosill&show_icons=true&theme=radical"/>
+  <img height="165em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=radical"/>
+</div>
