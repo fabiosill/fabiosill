@@ -6,7 +6,7 @@ My name is Fábio, I am 25 years old. I am interested in technology and software
 
 ---
 
-## Pratical Projects
+## Practical Projects
 
 <b>1º User Register System: [[JAVA001] system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
 Developed a Java application to simulate a basic user registration and login system.
