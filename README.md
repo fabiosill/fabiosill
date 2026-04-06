@@ -8,10 +8,13 @@ My name is Fábio, I am 25 years old. I am interested in technology and software
 
 ## Practical Projects
 
-<b>1º User Register System: [[JAVA001] system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
+<b>1º Portfolio: [personal-portfolio](https://fabiosill.github.io/personal-portfolio/) </b><br>
+Personal portfolio built to present my projects, technical skills, and professional journey. Focused on clean design and user experience.
+
+<b>2º User Register System: [system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
 Developed a Java application to simulate a basic user registration and login system.
 
-<b>2º Website for Hairstylist: [[WEB001] hairstylist-website](https://fabiosill.github.io/hairstylist-website/) </b><br>
+<b>3º Website for Hairstylist: [hairstylist-website](https://fabiosill.github.io/hairstylist-website/) </b><br>
 Built a responsive website for a barbershop with an appointment scheduling interface, focusing on clean design and user experience.
 <br><br>
 
