@@ -8,14 +8,17 @@ My name is Fábio, I am 25 years old. I am interested in technology and software
 
 ## Practical Projects
 
-<b>1º Portfolio: [personal-portfolio](https://fabiosill.github.io/personal-portfolio/) </b><br>
+<b>1º CRUD System: [crud-system-py](https://github.com/fabiosill/crud-system-py/blob/main/database-system.py) </b><br>
+Developed a CRUD (Create, Read, Update, Delete) system using Python integrated with MySQL. The application allows efficient data management through dynamic queries, focusing on database operations, code structure, and backend logic.
+
+<b>2º Personal Portfolio: [personal-portfolio](https://fabiosill.github.io/personal-portfolio/) </b><br>
 Personal portfolio built to present my projects, technical skills, and professional journey. Focused on clean design and user experience.
 
-<b>2º User Register System: [system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
-Developed a Java application to simulate a basic user registration and login system.
+<b>3º Website for Perfumary: [leparfragancy-web](https://fabiosill.github.io/leparfragancy-web/) </b><br>
+Responsive website designed for a perfumery to present products, promotions, and provide an easy way for customers to get in touch.
 
-<b>3º Website for Hairstylist: [hairstylist-website](https://fabiosill.github.io/hairstylist-website/) </b><br>
-Built a responsive website for a barbershop with an appointment scheduling interface, focusing on clean design and user experience.
+<b>4º User Register System: [system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
+Developed a Java application to simulate a basic user registration and login system.
 <br><br>
 
 ---
