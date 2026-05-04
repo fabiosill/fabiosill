@@ -43,8 +43,7 @@ Developed a Java application to simulate a basic user registration and login sys
 ---
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=fabiosill&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"/>
   <img height="165em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabiosill&show_icons=true&theme=radical"/>
-  <img height="165em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=radical"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=dark"/>
 </div>
