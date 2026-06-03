@@ -19,7 +19,7 @@ Responsive website designed for a perfumery to present products, promotions, and
 
 <b>4º User Register System: [system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
 Developed a Java application to simulate a basic user registration and login system.
-<br><br>
+<br>
 
 <b>5º Personal Portfolio: [personal-portfolio](https://fabiosill.github.io/personal-portfolio/) </b><br>
 Personal portfolio built to present my projects, technical skills, and professional journey. Focused on clean design and user experience.
