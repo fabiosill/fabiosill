@@ -8,21 +8,16 @@ My name is Fábio, I am 25 years old. I am interested in technology and software
 
 ## Practical Projects
 
-<b>1º CRUD System: [crud-system-py](https://github.com/fabiosill/crud-system-py/blob/main/database-system.py) </b><br>
-Developed a CRUD (Create, Read, Update, Delete) system using Python integrated with MySQL. The application allows efficient data management through dynamic queries, focusing on database operations, code structure, and backend logic.
+<b>[[PORTFOLIO]](https://fabiosill.github.io/portfolio)</b>: Personal portfolio built to present my projects, technical skills, and professional journey.
 
-<b>2º Portfolio: [portfolio](https://fabiosill.github.io/portfolio) </b><br>
-Personal portfolio built to present my projects, technical skills, and professional journey. Focused on clean design and user experience.
+<b>[[CRUD-SYSTEM]](https://github.com/fabiosill/crud-system-py/blob/main/database-system.py)</b>: Developed a CRUD (Create, Read, Update, Delete) system using Python integrated with MySQL.
 
-<b>3º Website for Perfumary: [leparfragancy-web](https://fabiosill.github.io/leparfragancy-web/) </b><br>
-Responsive website designed for a perfumery to present products, promotions, and provide an easy way for customers to get in touch.
-
-<b>4º User Register System: [system-user-register](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java) </b><br>
-Developed a Java application to simulate a basic user registration and login system.
+<b>[[USER-REGISTER]](https://github.com/fabiosill/system-user-register/blob/main/src/Main.java)</b>: Developed a Java application to simulate a basic user registration and login system.
 <br>
 
-<b>5º Hairstylist Website: [hairstylist-website](https://fabiosill.github.io/hairstylist-website) </b><br>
-Professional hairstylist website built to showcase services, hairstyles, pricing, and contact information. Focused on modern design, visual appeal, and user experience.
+<b>[[LE-PARFRAGANCY]](https://fabiosill.github.io/leparfragancy-web/)</b>: Responsive website designed for a perfumery to present products.
+
+<b>[[KP-HAIRSTYLIST]](https://fabiosill.github.io/hairstylist-website)</b>: Professional hairstylist website built to showcase services, hairstyles, pricing, and contact information.
 
 ---
 
