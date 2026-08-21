@@ -42,9 +42,9 @@ My name is Fábio, I am 25 years old. I am interested in technology and software
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=fabiosill&theme=dark&locale=en"
+    src="https://github-readme-streak-stats-ten-peach.vercel.app?user=fabiosill&theme=dark&locale=en"
     height="165"
-    alt="GitHub streak graph"
+    alt="GitHub Streak"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fabiosill&layout=compact&theme=dark"
